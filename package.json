@@ -1,0 +1,24 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "core-js": "^3.18.2",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JwhCK/npmtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JwhCK/npmtest/issues"
+  },
+  "homepage": "https://github.com/JwhCK/npmtest#readme"
+}
